@@ -11,5 +11,10 @@ Screenshots :
 
 
 
-Video :
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1-Xui6VWb-k?si=Dnch6Af4inEayGsu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+
+
+https://github.com/RiddhiGondaliya/Cookie-counter-automation/assets/42887563/8a5bc312-7e07-47c5-87e0-e597eab7d78b
+
