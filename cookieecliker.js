@@ -52,8 +52,8 @@ function buyCheapestUpgrade() {
 // Main loop function
 function mainLoop() {
     clickCookie();  // Click the cookie
-    buyCheapestItem();  // Buy the cheapest item
     buyCheapestUpgrade();  // Buy the cheapest upgrade
+    buyCheapestItem();  // Buy the cheapest item
 }
 
 // Start the main loop, running it every 1 millisecond
